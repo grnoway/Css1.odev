@@ -1,6 +1,6 @@
-#Patika CSS 1. ödevi
+# Patika CSS 1. ödevi
 
-###Gaffari
+### Gaffari
 
 ---
 ## Silah Marketim
